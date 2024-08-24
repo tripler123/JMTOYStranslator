@@ -14,7 +14,11 @@ Recuerda que también agradeceremos que le des un **like** al repositorio para a
 
 ## Instalación
 
-Para usar este proyecto, es necesario que generes un archivo de tipo ADDIN. Si no sabes cómo hacerlo, puedes seguir las instrucciones detalladas en el siguiente enlace: [Addin Manifest and Guide](https://thebuildingcoder.typepad.com/blog/2010/04/addin-manifest-and-guidize.html).
+Para usar este proyecto, es necesario que generes un archivo de tipo ADDIN. Si no sabes cómo hacerlo, puedes seguir las instrucciones detalladas en el siguiente enlace: [Addin Manifest and Guide]
+(https://thebuildingcoder.typepad.com/blog/2010/04/addin-manifest-and-guidize.html).
+
+![WhatsApp Video 2024-08-23 at 7](https://github.com/user-attachments/assets/47d19928-b4c8-4a93-9164-aeeabfcfa094)
+
 
 ## Importante
 
